@@ -19,7 +19,7 @@ def submit_solution(question_slug, code):
         "typed_code": code
     }
 
-    for attempt in range(3):  # Retry up to 3 times
+    for attempt in range(5):  # Retry up to 5 times with exponential backoff
         response = requests.post(url, json=payload, headers=headers)
         
         # Debugging output
@@ -44,7 +44,12 @@ def submit_solution(question_slug, code):
                     "json_decode_error": str(e)
                 }
         
-        time.sleep(2)  # Wait for 2 seconds before retrying
+        if response.status_code == 429:
+            retry_after = int(response.headers.get("Retry-After", 2 ** attempt))
+            print(f"Rate limit exceeded. Retrying after {retry_after} seconds...")
+            time.sleep(retry_after)
+        else:
+            time.sleep(2 ** attempt)  # Exponential backoff for other errors
     
     return {
         "status_code": response.status_code,
