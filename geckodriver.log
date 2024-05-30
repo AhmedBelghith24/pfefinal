@@ -1,0 +1,972 @@
+1716907671394	geckodriver	INFO	Listening on 127.0.0.1:49848
+1716907671708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofiletVMREF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716907695682	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716907696351	Marionette	INFO	Listening on port 49856
+WebDriver BiDi listening on ws://127.0.0.1:49849
+1716907696476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49849/devtools/browser/f9545149-5361-4b40-b734-fdb55378e948
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af0b85ccb07787, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 2424 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 4989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716907725723	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 86: Script terminated by timeout at:
+Xc.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:946
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:415
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:328
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:326
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+of.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:705
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:367
+qd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1316
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+li/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+li/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Jd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716907791722	Marionette	INFO	Stopped listening on port 49856
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+1716907814803	geckodriver	INFO	Listening on 127.0.0.1:50191
+1716907815318	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilerjsP9M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716907815636	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716907815835	Marionette	INFO	Listening on port 50199
+WebDriver BiDi listening on ws://127.0.0.1:50192
+1716907815973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50192/devtools/browser/10804e3b-18a1-4d6b-baa6-84f561bd6031
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af0e6a58cf777c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 6010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 6353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af0ead2973777c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af0f020878777c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716907845703	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af0f1ec8ee777c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 1338 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 77: Script terminated by timeout at:
+n.jh@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:14
+n.remove@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:213
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:94
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:308
+qd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1316
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+li/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+li/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Jd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af13f1de517784, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 2386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3573: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js, line 1: Script terminated by timeout at:
+DIDV/d/<@https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js:1:961027
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 82: Script terminated by timeout at:
+Hc.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:320
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+Xc.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1024
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:392
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:177
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:415
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:328
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:326
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+of.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:705
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:367
+qd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1316
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+li/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+li/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ih/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Jd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716908364666	Marionette	INFO	Stopped listening on port 50199
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1716908636561	geckodriver	INFO	Listening on 127.0.0.1:50318
+1716908637050	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileCFEMqS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716908637594	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716908637791	Marionette	INFO	Listening on port 50326
+WebDriver BiDi listening on ws://127.0.0.1:50319
+1716908637900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50319/devtools/browser/570f3067-a9a2-4506-b46a-26677f713d33
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af227e3fb45fcb, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 5475 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 5: Script terminated by timeout at:
+u@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:5:351
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:309
+ih/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Jd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af22ed48295fcb, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716908667663	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af253b6d87777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af2551f87b777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af257f6d97777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716908868373	geckodriver	INFO	Listening on 127.0.0.1:50419
+1716908868889	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilehVwmtS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716908869271	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716908869464	Marionette	INFO	Listening on port 50427
+WebDriver BiDi listening on ws://127.0.0.1:50420
+1716908869639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50420/devtools/browser/bffc0a8f-fcad-4cf0-8f65-75f9cba709d8
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716908873011	Marionette	INFO	Stopped listening on port 50427
+1716909049910	geckodriver	INFO	Listening on 127.0.0.1:50493
+1716909050412	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileOuGQWf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716909050867	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716909051063	Marionette	INFO	Listening on port 50501
+WebDriver BiDi listening on ws://127.0.0.1:50494
+1716909051172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50494/devtools/browser/44cb75c7-55a7-4899-9a74-9358ea6b8269
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716909054451	Marionette	INFO	Stopped listening on port 50501
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 750: Script terminated by timeout at:
+w$@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:750:239
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1213:201
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af2c953acc777b, line 1: Script terminated by timeout at:
+gu@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af2c953acc777b:1:78286
+
+1716909437817	geckodriver	INFO	Listening on 127.0.0.1:50576
+1716909438323	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilehx2jhM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716909438706	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716909438899	Marionette	INFO	Listening on port 50584
+WebDriver BiDi listening on ws://127.0.0.1:50577
+1716909439038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50577/devtools/browser/90c14a45-735b-410a-9bf8-deadd43584fc
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af360d0bc50d81, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 2749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716909452705	Marionette	INFO	Stopped listening on port 50584
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 81: Script terminated by timeout at:
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:14
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+vd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:574
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+kf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:108:334
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Yd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:9
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:352
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1219
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+vd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:574
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+kf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:108:334
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Ve/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:106:157
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Yf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:909
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Bo/</m<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:256:2180
+Bo/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:256:2153
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Ve/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:106:157
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Yf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:909
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Zc.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1751
+Yc/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1393
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Zc.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1751
+Yc/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1393
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Zc.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1751
+Yc/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1393
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Zc.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1751
+Yc/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1393
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Td.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1516
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Td.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1516
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Sf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:114:217
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Td.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1516
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+cd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:408
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+Vf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:409
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+yf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:111:303
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+Gd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:390
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1206
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Fd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:2240
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:352
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1219
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+vd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:574
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:122
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1219
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Wd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1996
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+nf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:455
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+yf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:111:303
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+Gd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:390
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1206
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Fd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:2240
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+Gd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:390
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1206
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Fd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:2240
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+nf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:455
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+yf.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:111:303
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+Gd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:390
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1206
+n.Wd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:34
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1284
+Fd.prototype.call@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:2240
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:1215
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:111
+n.F@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:352
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:98
+Nc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1219
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-3965754337269139&output=html&h=60&slotname=6749160030&adk=1716476301&adf=3924077476&pi=t.ma~as.6749160030&w=468&abgtt=6&lmt=1716909452&format=468x60&url=https%3A%2F%2Fleetcode.com%2F&wgl=1&dt=1716909450708&bpp=2&bdt=1618&idt=1351&shv=r20240522&mjsv=m202405230101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=1&correlator=1308470364916&frm=20&pv=1&ga_vid=1545831802.1716909441&ga_sid=1716909451&ga_hid=1881371001&ga_fc=1&u_tz=60&u_his=2&u_h=956&u_w=1470&u_ah=854&u_aw=1470&u_cd=30&u_sd=2&adx=197&ady=215&biw=1280&bih=684&scr_x=0&scr_y=0&eid=44759876%2C44759927%2C44759837%2C44795922%2C95331983&oid=2&pvsid=98623349214975&tmod=2025844832&uas=0&nvt=1&ref=https%3A%2F%2Fleetcode.com%2Faccounts%2Flogin%2F&fc=1920&brdim=4%2C37%2C4%2C37%2C1470%2C37%2C1280%2C768%2C1280%2C683&vis=2&rsz=%7Cm%7CeoEr%7Cp&abl=XS&pfx=0&fu=0&bc=31&bz=1&ifi=2&uci=a!2&fsb=1&dtd=1363, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716910641846	geckodriver	INFO	Listening on 127.0.0.1:49234
+1716910641923	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileFtkFUg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716910643301	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716910643702	Marionette	INFO	Listening on port 49240
+WebDriver BiDi listening on ws://127.0.0.1:49235
+1716910643820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49235/devtools/browser/f186cc3f-6e32-4a33-b068-a3aef6a45262
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af537999117787, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716910658073	Marionette	INFO	Stopped listening on port 49240
+JavaScript warning: https://challenges.cloudflare.com/turnstile/v0/api.js?onload=cf__reactTurnstileOnLoad&render=explicit, line 1: Script terminated by timeout at:
+_r@https://challenges.cloudflare.com/turnstile/v0/api.js?onload=cf__reactTurnstileOnLoad&render=explicit:1:14863
+dt/e.watchCatInterval<@https://challenges.cloudflare.com/turnstile/v0/api.js?onload=cf__reactTurnstileOnLoad&render=explicit:1:16262
+
+1716910759106	geckodriver	INFO	Listening on 127.0.0.1:49319
+1716910759623	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileCJjeqf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716910759992	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716910760187	Marionette	INFO	Listening on port 49327
+WebDriver BiDi listening on ws://127.0.0.1:49320
+1716910760298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49320/devtools/browser/c114facb-a9c8-41a1-9d1d-dd4760c9d50f
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af564f88ab7787, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 3655 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716910773792	Marionette	INFO	Stopped listening on port 49327
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202405230101/show_ads_impl_fy2021.js, line 63: Script terminated by timeout at:
+yf/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202405230101/show_ads_impl_fy2021.js:63:44
+
+1716910848960	geckodriver	INFO	Listening on 127.0.0.1:49406
+1716910849478	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileWTfPpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716910849851	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716910850044	Marionette	INFO	Listening on port 49414
+WebDriver BiDi listening on ws://127.0.0.1:49407
+1716910850156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49407/devtools/browser/14cb6526-0938-4229-a7e6-31db3a4fe76d
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af5880ecac778d, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 5919 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716910879871	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716910883790	Marionette	INFO	Stopped listening on port 49414
+1716910956091	geckodriver	INFO	Listening on 127.0.0.1:49490
+1716910956607	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilepdFqMz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716910956979	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716910957193	Marionette	INFO	Listening on port 49496
+WebDriver BiDi listening on ws://127.0.0.1:49491
+1716910957342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49491/devtools/browser/1797691f-d17e-4bd6-a949-873ff67447c4
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af5b1c4ce6777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716910987028	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 1423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716910991088	Marionette	INFO	Stopped listening on port 49496
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 511: Script terminated by timeout at:
+k<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:511:468
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:323:316
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1213:182
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 14: Script terminated by timeout at:
+x@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:14:248
+Sa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:263
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716911095607	geckodriver	INFO	Listening on 127.0.0.1:49579
+1716911096125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofile75J3ot"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716911096503	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716911096711	Marionette	INFO	Listening on port 49585
+WebDriver BiDi listening on ws://127.0.0.1:49580
+1716911096898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49580/devtools/browser/e2dc9101-60eb-48db-a127-0c03b86829f2
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af5e91eead0dbd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716911126628	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 5301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716911130608	Marionette	INFO	Stopped listening on port 49585
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js, line 1: Script terminated by timeout at:
+DIDV/d/<@https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js:1:961027
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 347: Script terminated by timeout at:
+L@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:347:349
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716911373791	geckodriver	INFO	Listening on 127.0.0.1:49674
+1716911374304	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileOa2UrV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716911374963	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716911375208	Marionette	INFO	Listening on port 49680
+WebDriver BiDi listening on ws://127.0.0.1:49675
+1716911375319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49675/devtools/browser/38742e0b-d7d0-481f-8a64-2214aa0136b9
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af65577d260db0, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 4744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 4299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716911405058	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H1GDJvZ5M_kU2fOSB2nywmRRjNO3F_TtpRdiAEcuEII.js line 2 > eval line 6216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716911409539	Marionette	INFO	Stopped listening on port 49680
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716912498527	geckodriver	INFO	Listening on 127.0.0.1:49930
+1716912499026	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileAczd2y"
+WebDriver BiDi listening on ws://127.0.0.1:49931
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49931/devtools/browser/dbe4fe06-5770-4016-8303-9dc0d2466d43
+1716912561803	geckodriver	INFO	Listening on 127.0.0.1:50165
+1716912562303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileM5hew4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716912582849	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716912583220	Marionette	INFO	Listening on port 50171
+WebDriver BiDi listening on ws://127.0.0.1:50166
+1716912583309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50166/devtools/browser/d8d2a02a-df44-4de1-bf7c-4d0295810988
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af82d42ebb41ea, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716912598639	Marionette	INFO	Stopped listening on port 50171
+JavaScript warning: https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js, line 1938: Script terminated by timeout at:
+g.IA/<@https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js:1938:49
+
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 5460 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716912615887	geckodriver	INFO	Listening on 127.0.0.1:50459
+1716912616402	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileBp4m1r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716912616714	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716912616908	Marionette	INFO	Listening on port 50465
+WebDriver BiDi listening on ws://127.0.0.1:50460
+1716912617046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50460/devtools/browser/b3a49a0b-5caf-4e64-91e7-1db705bd9453
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af83a47eed777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716912632020	Marionette	INFO	Stopped listening on port 50465
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+JavaScript warning: https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js, line 1938: Script terminated by timeout at:
+g.IA/<@https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js:1938:49
+
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 63 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716912784635	geckodriver	INFO	Listening on 127.0.0.1:50573
+1716912785150	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileJQtq4J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716912785523	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716912785715	Marionette	INFO	Listening on port 50579
+WebDriver BiDi listening on ws://127.0.0.1:50574
+1716912785826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50574/devtools/browser/a75b3244-3395-4c6f-851b-bb40d73fdfb6
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af87c12fd17781, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716912800546	Marionette	INFO	Stopped listening on port 50579
+JavaScript warning: https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js, line 8629: Script terminated by timeout at:
+g.k.eV@https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js:8629:16
+
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2556 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716912809146	geckodriver	INFO	Listening on 127.0.0.1:50664
+1716912809664	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileba9oot"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716912809987	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716912810188	Marionette	INFO	Listening on port 50670
+WebDriver BiDi listening on ws://127.0.0.1:50665
+1716912810303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50665/devtools/browser/2a1421e3-97f2-49d9-900a-aa706451ee3a
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af885a4bab777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://www.youtube.com/s/player/bc657243/www-embed-player.vflset/www-embed-player.js, line 901: Script terminated by timeout at:
+dl/<@https://www.youtube.com/s/player/bc657243/www-embed-player.vflset/www-embed-player.js:901:47
+
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af88912d9f777b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716912824905	Marionette	INFO	Stopped listening on port 50670
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af88912d9f777b, line 1: Script terminated by timeout at:
+@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af88912d9f777b:1:43262
+
+1716912830244	geckodriver	INFO	Listening on 127.0.0.1:50756
+1716912830764	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilers3OvP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716912831089	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716912831294	Marionette	INFO	Listening on port 50762
+WebDriver BiDi listening on ws://127.0.0.1:50757
+1716912831412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50757/devtools/browser/634cb066-53eb-4e4f-8658-acd77a033b0e
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716912845958	Marionette	INFO	Stopped listening on port 50762
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 567 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716913039638	geckodriver	INFO	Listening on 127.0.0.1:50858
+1716913040158	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilehQE5FD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716913040458	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716913040626	Marionette	INFO	Listening on port 50864
+WebDriver BiDi listening on ws://127.0.0.1:50859
+1716913040732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50859/devtools/browser/e136e89c-ffc7-4fde-9296-61f3ef6b03c7
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716913043960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716913055397	Marionette	INFO	Stopped listening on port 50864
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+JavaScript warning: https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js, line 1938: Script terminated by timeout at:
+g.IA/<@https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js:1938:49
+
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 982 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716913084674	geckodriver	INFO	Listening on 127.0.0.1:50958
+1716913085193	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileGa0g1i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716913085492	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716913085663	Marionette	INFO	Listening on port 50964
+WebDriver BiDi listening on ws://127.0.0.1:50959
+1716913085767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50959/devtools/browser/600f12d7-5330-4718-ba22-b6716c3acd2b
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88af8f146bbd7781, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1716913100417	Marionette	INFO	Stopped listening on port 50964
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js, line 1: Script terminated by timeout at:
+i@https://leetcode.com/_next/static/chunks/pages/_app-9dd8a1b3446b3f2f.js:1:92929
+
+JavaScript warning: https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js, line 1938: Script terminated by timeout at:
+g.IA/<@https://www.youtube.com/s/player/bc657243/player_ias.vflset/en_US/base.js:1938:49
+
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 4634 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1716985374835	geckodriver	INFO	Listening on 127.0.0.1:49246
+1716985375190	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileVxyyVU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716985380039	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716985380464	Marionette	INFO	Listening on port 49254
+WebDriver BiDi listening on ws://127.0.0.1:49247
+1716985380580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49247/devtools/browser/c892650e-f9fa-4300-9e69-d0489ca30b83
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b674225d5e5bc9, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716985407951	geckodriver	INFO	Listening on 127.0.0.1:49371
+1716985408469	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilepDkDA6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716985408792	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716985408978	Marionette	INFO	Listening on port 49379
+WebDriver BiDi listening on ws://127.0.0.1:49372
+1716985409116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49372/devtools/browser/2010f6dc-7c1b-4658-b9d6-8812c779ed65
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b674e23f535bd0, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716985439944	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716985443026	Marionette	INFO	Stopped listening on port 49379
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 808: Script terminated by timeout at:
+a@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:808:456
+zj@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:809:143
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:338:19
+K<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:256:425
+K</x<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:259:211
+d<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:727:191
+E</this.next@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:457:122
+V</q<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:429
+nrWrapper@https://leetcode.com/:12:17817
+e@https://leetcode.com/:12:21986
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:322
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:324:329
+K<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:259:174
+E</w<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:423:140
+d<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:727:191
+E</this.next@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:457:122
+V</q<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:429
+nrWrapper@https://leetcode.com/:12:17817
+e@https://leetcode.com/:12:21986
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:322
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:324:329
+E<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:423:16
+X</a<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:609:468
+d<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:727:191
+E</this.next@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:457:122
+V</q<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:429
+nrWrapper@https://leetcode.com/:12:17817
+e@https://leetcode.com/:12:21986
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:337:322
+V<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:324:329
+X<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:609:369
+g</g<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:354:387
+iF@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:894:175
+h@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:253:37
+nrWrapper@https://leetcode.com/:12:17817
+
+1716985467788	geckodriver	INFO	Listening on 127.0.0.1:49452
+1716985468306	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileybyrbM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716985468631	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716985468815	Marionette	INFO	Listening on port 49458
+WebDriver BiDi listening on ws://127.0.0.1:49453
+1716985468953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49453/devtools/browser/49c17bdc-b520-4bca-a6b3-c06491b40ced
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67643ea9c5bc9, line 1: Script terminated by timeout at:
+FEbgD@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67643ea9c5bc9:1:843
+fH@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67643ea9c5bc9:1:1117
+KkoAT@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67643ea9c5bc9:1:90812
+@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67643ea9c5bc9:1:92940
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 422: Script terminated by timeout at:
+E<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:422:429
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1219:382
+
+1716985473570	Marionette	INFO	Stopped listening on port 49458
+1716985474122	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1716985528460	geckodriver	INFO	Listening on 127.0.0.1:49523
+1716985528977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofile7iWs4l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716985529305	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716985529496	Marionette	INFO	Listening on port 49529
+WebDriver BiDi listening on ws://127.0.0.1:49524
+1716985529609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49524/devtools/browser/6ae707b8-b699-4d05-b746-fa569be772e3
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b677bdf8fe5bca, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sfkWuCjqW_57TbB2Pj3ySpGsduj3ijUQ5lT20dmm0LA.js line 2 > eval line 5661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716985559584	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716985563659	Marionette	INFO	Stopped listening on port 49529
+1716985744414	geckodriver	INFO	Listening on 127.0.0.1:49613
+1716985744932	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofile12851g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1716985745254	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1716985745444	Marionette	INFO	Listening on port 49619
+WebDriver BiDi listening on ws://127.0.0.1:49614
+1716985745581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49614/devtools/browser/d16ae0e3-bd33-46e8-b1da-61d30ffc179d
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67d039cbe5bd1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://leetcode.com/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 118: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88b67d9b3ce75bd1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716985775298	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716985779640	Marionette	INFO	Stopped listening on port 49619
+1717062843400	geckodriver	INFO	Listening on 127.0.0.1:64436
+1717062843460	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofileG8qFMJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717062845594	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1717062846025	Marionette	INFO	Listening on port 64442
+WebDriver BiDi listening on ws://127.0.0.1:64437
+1717062846144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64437/devtools/browser/111ff840-656a-4b30-854f-2846aca90bed
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88bdd76c9d4f7787, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88bdd7b799fe7787, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717062876027	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.60a2a4420.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717062884723	Marionette	INFO	Stopped listening on port 64442
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js, line 20: Script terminated by timeout at:
+checkReady@https://leetcode.com/static/webpack_bundles/new-libs.5de76e20f.js:20:234634
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1717063525834	geckodriver	INFO	Listening on 127.0.0.1:49254
+1717063526117	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xg/8ftg611543bgxb5_lvblxhn00000gn/T/rust_mozprofilesPzwAn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717063527862	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1717063528315	Marionette	INFO	Listening on port 49260
+WebDriver BiDi listening on ws://127.0.0.1:49255
+1717063528457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49255/devtools/browser/d3acb36d-38bd-4ee3-8b75-ee60804ef5c2
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.b1f1c9422.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=88bde8090ab45bce, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js, line 1219: Script terminated by timeout at:
+cC.prototype.P@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:1219:435
+
+1717063553145	Marionette	INFO	Stopped listening on port 49260
+1717063553707	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
