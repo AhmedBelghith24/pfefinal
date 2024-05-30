@@ -1,0 +1,27 @@
+name: Submit to LeetCode
+
+on:
+  push:
+    paths:
+      - '/Users/ahmedbelghith/Desktop/app/Pfe/solution.py'  
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run submission script
+      run: python submit_to_leetcode.py
+      env:
+        LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+        LEETCODE_CSRFTOKEN: ${{ secrets.LEETCODE_CSRFTOKEN }}
