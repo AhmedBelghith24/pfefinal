@@ -19,7 +19,8 @@ def submit_solution(question_slug, code):
         "typed_code": code
     }
 
-    for attempt in range(5):  # Retry up to 5 times with exponential backoff
+    max_retries = 5
+    for attempt in range(max_retries):
         response = requests.post(url, json=payload, headers=headers)
         
         # Debugging output
