@@ -46,7 +46,9 @@ def commit_and_push(file_path, message="Update result"):
     # Add, commit, and push the file
     subprocess.run(["git", "add", file_path], check=True)
     subprocess.run(["git", "commit", "-m", message], check=True)
-    subprocess.run(["git", "push", "origin", "main"], check=True)  # or the appropriate branch
+    # Use the personal access token to push changes
+    repo_url = f"https://{os.getenv('GITHUB_TOKEN')}@github.com/AhmedBelghith24/pfefinal.git"
+    subprocess.run(["git", "push", repo_url, "main"], check=True)  # or the appropriate branch
 
 if __name__ == "__main__":
     question_slug = "two-sum"  # Replace with the actual question slug

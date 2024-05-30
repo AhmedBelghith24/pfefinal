@@ -40,9 +40,15 @@ def write_result_to_file(result, file_path="result.txt"):
             file.write(f"{key}: {value}\n\n")
 
 def commit_and_push(file_path, message="Update result"):
+    # Set git user email and name
+    subprocess.run(["git", "config", "--global", "user.email", "your-email@example.com"], check=True)
+    subprocess.run(["git", "config", "--global", "user.name", "Your Name"], check=True)
+    # Add, commit, and push the file
     subprocess.run(["git", "add", file_path], check=True)
     subprocess.run(["git", "commit", "-m", message], check=True)
-    subprocess.run(["git", "push", "origin", "main"], check=True)  # or the appropriate branch
+    # Use the personal access token to push changes
+    repo_url = f"https://{os.getenv('GITHUB_TOKEN')}@github.com/AhmedBelghith24/pfefinal.git"
+    subprocess.run(["git", "push", repo_url, "main"], check=True)  # or the appropriate branch
 
 if __name__ == "__main__":
     question_slug = "two-sum"  # Replace with the actual question slug

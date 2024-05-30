@@ -28,6 +28,6 @@ jobs:
       env:
         LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
         LEETCODE_CSRFTOKEN: ${{ secrets.LEETCODE_CSRFTOKEN }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token for committing and pushing changes
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT for pushing changes
       run: |
         python submit_to_leetcode.py
