@@ -47,7 +47,7 @@ def commit_and_push(file_path, message="Update result"):
     subprocess.run(["git", "add", file_path], check=True)
     subprocess.run(["git", "commit", "-m", message], check=True)
     # Use the personal access token to push changes
-    repo_url = f"https://{os.getenv('GITHUB_TOKEN')}@github.com/AhmedBelghith24/pfefinal.git"
+    repo_url = f"https://{os.getenv('PERSONAL_ACCESS_TOKEN')}@github.com/AhmedBelghith24/pfefinal.git"
     subprocess.run(["git", "push", repo_url, "main"], check=True)  # or the appropriate branch
 
 if __name__ == "__main__":

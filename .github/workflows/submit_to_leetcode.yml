@@ -14,7 +14,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -28,6 +28,6 @@ jobs:
       env:
         LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
         LEETCODE_CSRFTOKEN: ${{ secrets.LEETCODE_CSRFTOKEN }}
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT for pushing changes
+        PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT for pushing changes
       run: |
         python submit_to_leetcode.py
