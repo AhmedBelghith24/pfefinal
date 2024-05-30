@@ -23,10 +23,10 @@ def submit_solution(question_slug, code):
         response = requests.post(url, json=payload, headers=headers)
         
         # Debugging output
-        print("Attempt:", attempt + 1)
-        print("Status Code:", response.status_code)
-        print("Response Headers:", response.headers)
-        print("Response Text:", response.text[:500])  # Print the first 500 characters of the response text
+        print(f"Attempt: {attempt + 1}")
+        print(f"Status Code: {response.status_code}")
+        print(f"Response Headers: {response.headers}")
+        print(f"Response Text: {response.text[:500]}")  # Print the first 500 characters of the response text
 
         if response.status_code == 200:
             try:
@@ -48,6 +48,9 @@ def submit_solution(question_slug, code):
             retry_after = int(response.headers.get("Retry-After", 2 ** attempt))
             print(f"Rate limit exceeded. Retrying after {retry_after} seconds...")
             time.sleep(retry_after)
+        elif response.status_code == 500:
+            print("Internal server error. Retrying after a short delay...")
+            time.sleep(2 ** attempt)
         else:
             time.sleep(2 ** attempt)  # Exponential backoff for other errors
     
@@ -63,8 +66,8 @@ def write_result_to_file(result, file_path="result.json"):
 
 def commit_and_push(file_path, message="Update result"):
     # Set git user email and name
-    subprocess.run(["git", "config", "--global", "user.email", "your-email@example.com"], check=True)
-    subprocess.run(["git", "config", "--global", "user.name", "Your Name"], check=True)
+    subprocess.run(["git", "config", "--global", "user.email", "abelghith@oakland.edu"], check=True)  # Replace with your email
+    subprocess.run(["git", "config", "--global", "user.name", "AhmedBelghith24"], check=True)  # Replace with your name
     # Add, commit, and push the file
     subprocess.run(["git", "add", file_path], check=True)
     subprocess.run(["git", "commit", "-m", message], check=True)
