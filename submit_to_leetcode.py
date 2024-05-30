@@ -1,5 +1,6 @@
 import os
 import requests
+import time
 import subprocess
 
 def submit_solution(question_slug, code):
@@ -17,22 +18,38 @@ def submit_solution(question_slug, code):
         "typed_code": code
     }
 
-    response = requests.post(url, json=payload, headers=headers)
+    for attempt in range(3):  # Retry up to 3 times
+        response = requests.post(url, json=payload, headers=headers)
+        
+        # Debugging output
+        print("Attempt:", attempt + 1)
+        print("Status Code:", response.status_code)
+        print("Response Headers:", response.headers)
+        print("Response Text:", response.text[:500])  # Print the first 500 characters of the response text
 
-    # Debugging output
-    result = {
+        if response.status_code == 200:
+            try:
+                response_json = response.json()
+                return {
+                    "status_code": response.status_code,
+                    "response_headers": dict(response.headers),
+                    "response_json": response_json
+                }
+            except ValueError as e:
+                return {
+                    "status_code": response.status_code,
+                    "response_headers": dict(response.headers),
+                    "response_text": response.text,
+                    "json_decode_error": str(e)
+                }
+        
+        time.sleep(2)  # Wait for 2 seconds before retrying
+    
+    return {
         "status_code": response.status_code,
         "response_headers": dict(response.headers),
         "response_text": response.text
     }
-
-    try:
-        response_json = response.json()
-        result["response_json"] = response_json
-    except ValueError as e:
-        result["json_decode_error"] = str(e)
-
-    return result
 
 def write_result_to_file(result, file_path="result.txt"):
     with open(file_path, "w") as file:
