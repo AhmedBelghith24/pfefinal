@@ -3,7 +3,7 @@ name: Submit to LeetCode
 on:
   push:
     paths:
-      - 'solution.py'  
+      - 'solution.py'  # Adjust this to match the path to your solution file
 
 jobs:
   submit:
