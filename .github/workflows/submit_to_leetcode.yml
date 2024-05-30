@@ -3,7 +3,8 @@ name: Submit to LeetCode
 on:
   push:
     paths:
-      - '/Users/ahmedbelghith/Desktop/app/Pfe/solution.py'  
+      - 'solution.py'  
+
 jobs:
   submit:
     runs-on: ubuntu-latest
