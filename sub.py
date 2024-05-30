@@ -2,6 +2,7 @@ import os
 import requests
 import time
 import subprocess
+import json
 
 def submit_solution(question_slug, code):
     url = f"https://leetcode.com/problems/{question_slug}/submit/"
@@ -51,10 +52,9 @@ def submit_solution(question_slug, code):
         "response_text": response.text
     }
 
-def write_result_to_file(result, file_path="result.txt"):
+def write_result_to_file(result, file_path="result.json"):
     with open(file_path, "w") as file:
-        for key, value in result.items():
-            file.write(f"{key}: {value}\n\n")
+        json.dump(result, file, indent=4)
 
 def commit_and_push(file_path, message="Update result"):
     # Set git user email and name
@@ -70,7 +70,7 @@ def commit_and_push(file_path, message="Update result"):
 if __name__ == "__main__":
     question_slug = "two-sum"  # Replace with the actual question slug
     file_path = "solution.py"  # Path to the solution file
-    result_file_path = "result.txt"
+    result_file_path = "result.json"
 
     with open(file_path, 'r') as file:
         code = file.read()
