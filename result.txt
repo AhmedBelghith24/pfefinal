@@ -1,6 +1,6 @@
 status_code: 500
 
-response_headers: {'Date': 'Thu, 30 May 2024 20:50:28 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'last-modified': 'Fri, 01 Mar 2024 10:53:05 GMT', 'vary': 'Accept-Encoding', 'cf-cache-status': 'DYNAMIC', 'Age': '26442', 'x-content-type-options': 'nosniff', 'Set-Cookie': '__cf_bm=R.tX_kFXmnZFfISNr4FZ6Eyos8QMgLTWZSQLjJ_91tA-1717102228-1.0.1.1-Dm.golLkptydJeiX4wOYlbLftoYc2bpy.lyqdLvFsTyRGgho2EQhqUW_hyh76t59igBgk9PPfF1iklgyxbEQWA; path=/; expires=Thu, 30-May-24 21:20:28 GMT; domain=.leetcode.com; HttpOnly; Secure; SameSite=None', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'Server': 'cloudflare', 'CF-RAY': '88c198bf3e5d3aee-IAD'}
+response_headers: {'Date': 'Thu, 30 May 2024 20:57:53 GMT', 'Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'last-modified': 'Fri, 01 Mar 2024 10:53:05 GMT', 'vary': 'Accept-Encoding', 'cf-cache-status': 'DYNAMIC', 'Age': '28419', 'x-content-type-options': 'nosniff', 'Set-Cookie': '__cf_bm=fKu0ToVGn1XtY3gVD6byVFCau3xz7ZWYLopDvD9HbiI-1717102673-1.0.1.1-Qh.wZ5wAovy3peRyjDc2qF_xrtZEUC30LgFBIU2Tbrouf9UZu1jEmYy_QwAmZavemMjnPzA1eFI7VMt6GCVIkQ; path=/; expires=Thu, 30-May-24 21:27:53 GMT; domain=.leetcode.com; HttpOnly; Secure; SameSite=None', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'Server': 'cloudflare', 'CF-RAY': '88c1a39e49da629f-ORD'}
 
 response_text: <!DOCTYPE html>
 <html>
@@ -98,6 +98,4 @@ response_text: <!DOCTYPE html>
 
 </html>
 
-
-json_decode_error: Expecting value: line 1 column 1 (char 0)
 
