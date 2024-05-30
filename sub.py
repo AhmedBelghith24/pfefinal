@@ -1,5 +1,6 @@
 import os
 import requests
+import subprocess
 
 def submit_solution(question_slug, code):
     url = f"https://leetcode.com/problems/{question_slug}/submit/"
@@ -19,22 +20,38 @@ def submit_solution(question_slug, code):
     response = requests.post(url, json=payload, headers=headers)
 
     # Debugging output
-    print("Status Code:", response.status_code)
-    print("Response Headers:", response.headers)
-    print("Response Text:", response.text)
+    result = {
+        "status_code": response.status_code,
+        "response_headers": dict(response.headers),
+        "response_text": response.text
+    }
 
     try:
         response_json = response.json()
-        print(response_json)
+        result["response_json"] = response_json
     except ValueError as e:
-        print("JSON decode error:", e)
-        print("Response text was not JSON:", response.text)
+        result["json_decode_error"] = str(e)
+
+    return result
+
+def write_result_to_file(result, file_path="result.txt"):
+    with open(file_path, "w") as file:
+        for key, value in result.items():
+            file.write(f"{key}: {value}\n\n")
+
+def commit_and_push(file_path, message="Update result"):
+    subprocess.run(["git", "add", file_path], check=True)
+    subprocess.run(["git", "commit", "-m", message], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)  # or the appropriate branch
 
 if __name__ == "__main__":
     question_slug = "two-sum"  # Replace with the actual question slug
     file_path = "solution.py"  # Path to the solution file
+    result_file_path = "result.txt"
 
     with open(file_path, 'r') as file:
         code = file.read()
 
-    submit_solution(question_slug, code)
+    result = submit_solution(question_slug, code)
+    write_result_to_file(result, result_file_path)
+    commit_and_push(result_file_path, "Update LeetCode submission result")

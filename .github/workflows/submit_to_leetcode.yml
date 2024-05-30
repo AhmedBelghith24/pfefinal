@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'solution.py'  # Adjust this to match the path to your solution file
-  workflow_dispatch:  # Add this line to enable manual triggering
+  workflow_dispatch:  # Enable manual triggering
 
 jobs:
   submit:
@@ -13,6 +13,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -23,7 +25,9 @@ jobs:
       run: pip install requests
 
     - name: Run submission script
-      run: python submit_to_leetcode.py
       env:
         LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
         LEETCODE_CSRFTOKEN: ${{ secrets.LEETCODE_CSRFTOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token for committing and pushing changes
+      run: |
+        python submit_to_leetcode.py
